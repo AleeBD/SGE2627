@@ -18,3 +18,5 @@ nombre2 = "Elon"
 objeto = "cohetes"
 num_ruedas = 3
 print("hola, qué tal, soy", nombre2, "fabrico", objeto,  "con", num_ruedas, "ruedas")
+
+print(type(nombre)) #type() devuelve el tipo que python ha interpretado de la variable
